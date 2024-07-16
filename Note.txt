@@ -1,0 +1,17 @@
+
+
+Data set:
+https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
+
+
+
+Seaborn:
+Seaborn is a Python data visualization library based on matplotlib. 
+It provides a high-level interface for drawing attractive and informative statistical graphics. 
+Seaborn helps resolve the two major problems faced by Matplotlib
+
+seaborn.catplot(*, x=None, y=None, hue=None, data=None, row=None, col=None, kind=’strip’, color=None, palette=None, **kwargs)
+The kind of plot to draw, corresponds to the name of a categorical axes-level plotting function. 
+Options are: “strip”, “swarm”, “box”, “violin”, “boxen”, “point”, “bar”, or “count”.
+
+Corss of dimansnality
